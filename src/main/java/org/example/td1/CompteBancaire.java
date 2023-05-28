@@ -1,9 +1,9 @@
-package org.example;
+package org.example.td1;
+
+import org.example.td1.OperationBancaire;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Date;
 
 public class CompteBancaire {
     private String nom;
